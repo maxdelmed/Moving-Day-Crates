@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "P P",
+    "PPP"
+  ],
+  "result": {
+    "count": 2,
+    "item": "movingcrates:moving_crate"
+  },
+  "show_notification": true
+}

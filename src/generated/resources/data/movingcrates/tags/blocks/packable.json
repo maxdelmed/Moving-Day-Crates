@@ -1,0 +1,395 @@
+{
+  "values": [
+    "minecraft:chest",
+    "minecraft:trapped_chest",
+    "minecraft:barrel",
+    "minecraft:furnace",
+    "minecraft:blast_furnace",
+    "minecraft:smoker",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:lectern",
+    "minecraft:jukebox",
+    "minecraft:decorated_pot",
+    "#minecraft:beds",
+    {
+      "id": "#forge:chests",
+      "required": false
+    },
+    {
+      "id": "#forge:barrels",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:bookshelf",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:bookshelf_cupboard",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:bookshelf_drawer",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:cabinet",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:counter",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:covered_desk",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:desk",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:double_drawer",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:double_drawer_counter",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:drawer",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:drawer_counter",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:large_drawer",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:lower_bookshelf_drawer",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:lower_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:modern_desk",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:triple_drawer",
+      "required": false
+    },
+    {
+      "id": "#mcwfurnitures:wadrobe",
+      "required": false
+    },
+    {
+      "id": "#handcrafted:counters",
+      "required": false
+    },
+    {
+      "id": "#handcrafted:cupboards",
+      "required": false
+    },
+    {
+      "id": "#handcrafted:desks",
+      "required": false
+    },
+    {
+      "id": "#handcrafted:drawers",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:bamboo_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:cherry_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:jungle_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:mangrove_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_nightstand",
+      "required": false
+    },
+    {
+      "id": "cluttered:black_cat_counter_drawers",
+      "required": false
+    },
+    {
+      "id": "cluttered:cardboard_box_open",
+      "required": false
+    },
+    {
+      "id": "cluttered:filing_box",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_brown_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_brown_cabinet_glass",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_brown_cabinet_inner_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_brown_cabinet_mini",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_brown_cabinet_open",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_brown_cabinet_outer_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_light_green_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_light_green_cabinet_glass",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_light_green_cabinet_inner_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_light_green_cabinet_mini",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_light_green_cabinet_open",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_light_green_cabinet_outer_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_pink_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_pink_cabinet_glass",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_pink_cabinet_inner_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_pink_cabinet_mini",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_pink_cabinet_open",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_pink_cabinet_outer_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_purple_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_purple_cabinet_glass",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_purple_cabinet_inner_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_purple_cabinet_mini",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_purple_cabinet_open",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_purple_cabinet_outer_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_white_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_white_cabinet_glass",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_white_cabinet_inner_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_white_cabinet_mini",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_white_cabinet_open",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_white_cabinet_outer_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_yellow_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_yellow_cabinet_glass",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_yellow_cabinet_inner_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_yellow_cabinet_mini",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_yellow_cabinet_open",
+      "required": false
+    },
+    {
+      "id": "cluttered:kitchen_set_yellow_cabinet_outer_corner",
+      "required": false
+    },
+    {
+      "id": "cluttered:nightstand_green",
+      "required": false
+    },
+    {
+      "id": "cluttered:pastel_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:picnic_basket",
+      "required": false
+    },
+    {
+      "id": "cluttered:picnic_basket_prepared",
+      "required": false
+    },
+    {
+      "id": "cluttered:safe_novakid",
+      "required": false
+    },
+    {
+      "id": "cluttered:sweetheart_counter_drawers",
+      "required": false
+    },
+    {
+      "id": "cluttered:blue_mushroom_wardrobe",
+      "required": false
+    },
+    {
+      "id": "cluttered:china_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:darkwood_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:dorado_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:dorado_cabinet_cluttered",
+      "required": false
+    },
+    {
+      "id": "cluttered:general_store_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:havana_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:havana_cabinet_cluttered",
+      "required": false
+    },
+    {
+      "id": "cluttered:mermaid_dresser",
+      "required": false
+    },
+    {
+      "id": "cluttered:murex_cabinet",
+      "required": false
+    },
+    {
+      "id": "cluttered:murex_cabinet_cluttered",
+      "required": false
+    },
+    {
+      "id": "cluttered:pastel_wardrobe",
+      "required": false
+    },
+    {
+      "id": "cluttered:red_mushroom_wardrobe",
+      "required": false
+    }
+  ]
+}

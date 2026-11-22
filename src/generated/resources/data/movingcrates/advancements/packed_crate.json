@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "has_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "movingcrates:packed_crate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.movingcrates.packed_crate.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "movingcrates:packed_crate"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.movingcrates.packed_crate.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
